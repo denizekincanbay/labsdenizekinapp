@@ -1,4 +1,4 @@
-# Labs---MertApp
+# Labs---denizApp
 
 I created Homepage, Login form and Register form. 
 
